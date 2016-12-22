@@ -12,14 +12,17 @@ This project is part of the 2016 Hackthon.
 This app is suitable for everyone, allowing them to argue with anyone on a spesific topic.
 
 The Homepage:
+
 ![homepage](http://imgur.com/bOw1xiL.png)
 
 
 Choosing a Topic:
+
 ![topic](http://imgur.com/fgK397W.png)
 
 
 The Chat:
+
 ![topic](http://imgur.com/zeVmfVn.png)
 
 ## Technology behind

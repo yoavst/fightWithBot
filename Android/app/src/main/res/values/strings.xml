@@ -1,0 +1,100 @@
+<resources>
+    <string name="app_name">Fight With</string>
+
+    <string name="find_random">Finding random stranger…</string>
+
+    <string name="_for">For</string>
+    <string name="against">Against</string>
+
+    <string name="trump">Trump</string>
+    <string name="trump_text">Trump is the next president of the US. Are you a supporter?</string>
+
+    <string name="console_war">Console VS PC</string>
+    <string name="console_war_text">A console gamer, or a PC master race?</string>
+    <string name="console">Console</string>
+    <string name="pc">PC</string>
+
+    <string name="politics">Politics</string>
+    <string name="politics_text">Land for peace.</string>
+
+    <string name="xbox_vs_ps">XBox vs PlayStation</string>
+    <string name="xbox_desc">What is your preferred gaming console?</string>
+    <string name="XBox">XBox</string>
+    <string name="Playstation">PlayStation</string>
+
+    <string name="SuperHeroes">Super Heroes</string>
+    <string name="super_desc">Which is a better comic books publisher? </string>
+    <string name="Marvel">Marvel</string>
+    <string name="DC">DC</string>
+
+    <string name="ForeignSoccer">Foreign Football</string>
+    <string name="foreign_desc">Which is a better Foreign Football team? </string>
+    <string name="RealMadrid">Real Madrid</string>
+    <string name="Barcelona">Barcelona</string>
+
+    <string name="LocalFootball">Local Football</string>
+    <string name="local_desc">Which is a better Local Football team? </string>
+    <string name="Maccabi">Macabbi</string>
+    <string name="HaPoel">HaPoel</string>
+
+    <string name="Sports">Sports</string>
+    <string name="sports_desc">Which of these is the best sport? </string>
+    <string name="football">Football</string>
+    <string name="basketball">Basketball</string>
+
+    <string name="Phones">Phones</string>
+    <string name="phones_os_desc">Which of these is the better mobile OS? </string>
+    <string name="Android">Android</string>
+    <string name="iOS">iOS</string>
+
+    <string name="PreferredWeather">Preferred Weather</string>
+    <string name="weather_desc">Is it better when its cold or hot outside? </string>
+    <string name="Cold">Cold</string>
+    <string name="hot">Hot</string>
+
+    <string name="pokemonvsdigimon">Pokemon Vs Digimon</string>
+    <string name="pokemon_desc">Which of these is the better anime? </string>
+    <string name="Pokemon">Pokemon</string>
+    <string name="Digimon">Digimon</string>
+
+    <string name="Monkeys">Monkeys</string>
+    <string name="monkey_desc">Which of these is the better monkey? </string>
+    <string name="Bantu">Bantu</string>
+    <string name="Harambe">Harambe</string>
+
+    <string name="fiction">Fiction</string>
+    <string name="fiction_desc">Which of these is the better fiction work? </string>
+    <string name="harry_potter">Harry Potter</string>
+    <string name="twilight">Twilight</string>
+
+    //////////////////////////
+
+    <string name="youth_movement">Youth Movement</string>
+    <string name="movement_desc">Which of these is the better youth movement? </string>
+    <string name="tzofim">Tzofim</string>
+    <string name="ilanoar">Ilanoar</string>
+
+    <string name="Games">games</string>
+    <string name="games_desc">Which of these is the best game? </string>
+    <string name="Paladins">Paladins</string>
+    <string name="Overwatch">Overwatch</string>
+
+    <string name="Bakugan_vs_YuGiHo">Bakugan Vs YuGiHo</string>
+    <string name="bakugan_desc">Which of these is the best amine? </string>
+    <string name="Bakugan">Bakugan</string>
+    <string name="yugihu">Yu-Gi-Ho</string>
+
+    <string name="starwars_vs_startrek">Bakugan Vs YuGiHo</string>
+    <string name="stars_desc">Which of these is the best ? </string>
+    <string name="star_wars">Star Wars</string>
+    <string name="star_trek">Star Trek</string>
+
+    <string name="Batman_vs_superman">Batman Vs Superman</string>
+    <string name="batman_desc">Which of these is the best ? </string>
+    <string name="Batman">Batman</string>
+    <string name="Superman">Superman</string>
+    <string name="chat_has_started">Chat has started…</string>
+    <string name="send">Send</string>
+    <string name="chat_has_been_closed">Chat has been closed.</string>
+    <string name="back_again_to_exit">Press back again to exit</string>
+</resources>

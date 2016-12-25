@@ -2,7 +2,6 @@
 
 Someone to Fight with (Hebrew: מישהו לריב איתו) is an app that lets you argue about a topic with a random stranger. It has 18 diffrenet topics at the moment.
 
-Our logo:
 ![logo](http://i.imgur.com/eoDreh3.png)
 
 ### Hackthon 2016
